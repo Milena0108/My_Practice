@@ -5,4 +5,10 @@ public class Hat {
 
     // there are never enough hats
 
+
+
+    // class Hat is updated
+
+    // even more updates
+
 }
